@@ -1,0 +1,10 @@
+.nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav-list a {
+    margin-left: 20px;
+    font-weight: 700;
+}
